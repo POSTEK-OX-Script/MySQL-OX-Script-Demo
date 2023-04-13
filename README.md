@@ -2,6 +2,11 @@
 
 This code is designed to print labels on a printer based on data retrieved from a MySQL database.
 
+## Demo video
+
+A demonstration of what this script can do can be found here
+https://youtu.be/QGUP1zCBlzo
+
 ## Installation
 
 To run this code, you will need to have Python 3.8+ installed on your system. You will not need to install the pskfunc, pymysql, and datetime modules as they come standards on POSTEK printers. You can install them on your device if you would like. You can do this using pip by running the following command:
