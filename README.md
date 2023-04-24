@@ -32,7 +32,7 @@ Note that polling the database too frequently may affect the performance of the 
 
 To execute this demo, simply load the .py file and commands1.txt(file for the label design) into your printer through the POSTEK App. Then to run the program you can initate it from the printer touch screen or the POSTEK App. 
 
-- Initating the program from printer touch screen
+- Initiating the program from printer touch screen
     - On your printer's touch screen, go to settings>Ox Script>[your file name].py. Press it and select run from the bottom right of the pop-up window
  
 - Initating the program from the POSTEK App
